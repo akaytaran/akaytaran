@@ -44,12 +44,18 @@ I started as a full-stack developer. Today I run a small company where **AI agen
 
 ---
 
-### 🏢 Also building at Winvestour LLC
+### 🏢 Live products at [Winvestour](https://www.winvestour.com)
 
-| Product | What it is |
+<sub><i>Your whole business in one app.</i></sub>
+
+| Product | What it does |
 |---|---|
-| **Xenido** | A digital guest experience and operations platform for hotels |
-| _More products_ | _Coming soon_ |
+| 🛒 **[Wommerce](https://www.winvestour.com/en/wommerce)** | Build a multilingual e-commerce website with a mobile app in minutes |
+| 📣 **[Wocial](https://www.winvestour.com/en/wocial)** | Let AI create, schedule and publish your social media posts across channels |
+| 🤝 **[Winfluencers](https://www.winvestour.com/en/winfluencers)** | Connects brands with influencers and agencies: coupon codes, real-time earnings, instant payouts |
+| 💼 **[Wellers](https://www.winvestour.com/en/wellers)** | Reseller program: sell Winvestour's e-commerce and domain products and earn recurring commission |
+
+**In development:** 🏨 **Xenido**, a digital guest experience and operations platform for hotels.
 
 ---
 
